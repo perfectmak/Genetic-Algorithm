@@ -21,6 +21,7 @@ Todo
 - Create a custom Makefile to help build a shared library. Right now it is built by Netbeans IDE :D
 - Encapsulate Selection Algorithm into an Interface
 - Allow for multi-threaded running of the algorithm
+- Create Unit Tests for the Library
 - (maybe) port the codebase to c++03
 
 Contributions
